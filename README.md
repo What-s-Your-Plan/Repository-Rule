@@ -1,5 +1,9 @@
 # Repository Rule
 
+
+<img width="800" src="./image/logo.png" alt="logo" />
+
+
 **What's Your Plan**의 Repository Rule을 정리하였습니다.
 
 1. 반드시 동작하는 코드를 업로드합니다.
